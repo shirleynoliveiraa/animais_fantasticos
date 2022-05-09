@@ -1,7 +1,7 @@
 ## 📖 Sobre
 
 Este projeto foi criado no curso de JS Completo ES6+ da Origamid. No curso, vimos todas as funcionalidades do JavaScript, interação com o DOM e o resultado foi o site Animais Fantásticos. <br>
-Você pode conferir clicando <a href="https://shirleynoliveiraa.github.io/animais_fantasticos/" >aqui</a>.
+Você pode conferir clicando <a href="https://shirleynoliveiraa.github.io/animais_fantasticos/" target="_blank" >aqui</a>.
 
 
 
